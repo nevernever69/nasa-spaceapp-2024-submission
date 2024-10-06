@@ -1,5 +1,17 @@
 Prototype Updates & Stand-out Features -
 
+## Deployment
+- live version of the app can be accessed at: https://orrery.nevernever.me/
+
+## installation
+To deploy this project run
+
+```bash
+  npm install
+  python -m http.server 8000
+```
+
+
 Feature 1: SPEED MANIPULATION
 - Current Status: Live & Functional 
 - We have now successfully integrated the Time Manipulation feature into our Orrery Web App.
